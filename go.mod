@@ -1,4 +1,4 @@
-module github.com/olefolch/projetofullcycle/goapi
+module github.com/olefolch/goapi
 
 go 1.21.6
 
